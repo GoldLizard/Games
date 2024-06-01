@@ -10,7 +10,7 @@ Chess - text input like "B2 to B4". Includes move validation and en passant.
         Missing features - castling
         Done with ~260 lines
 
-Tetris - WASD input. q/e to rotate, p for pause, x to instant drop, nad r to swap with inventory slot
+Tetris - WASD input. q/e to rotate, p for pause, x to instant drop, and r to swap with inventory slot
          Level scales every 10 lines cleared.
          Gravity depends on level.
          Score depends on both level and lines cleared at once.
