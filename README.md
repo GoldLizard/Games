@@ -18,3 +18,7 @@ Tetris - WASD input. q/e to rotate, p for pause, x to instant drop, and r to swa
          Ghost block below to show where the current block will fall to. 
          Missing feature - stop player stalling with infinite swaps
          Done with ~420 lines
+
+Digital Logic Simulator - reworked C++ object oriented final project
+                          Event queue instead of simulating each second
+                          Original program of 583 lines completely rewritten in 199.
