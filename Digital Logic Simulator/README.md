@@ -25,3 +25,5 @@ Im aware that a lot of this isnt normal whitespacing.
 If Im using a stringstream to     TXTline >> type >> symbol >> time >> state;
 I might as well                  string type; char symbol; int time; char state; 
 Some short if/foor loops are better on one line, so that comments for final print output make sense
+
+just compile simulator.cpp. The other 3 files are included
