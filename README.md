@@ -22,3 +22,7 @@ Tetris - WASD input. q/e to rotate, p for pause, x to instant drop, and r to swa
 Digital Logic Simulator - reworked C++ object oriented final project
                           Event queue instead of simulating each second
                           Original program of 583 lines completely rewritten in 199.
+
+Snake - WASD input. Literally just snake, 15x15 grid. Dimensions and speed can be edited in struct Game
+        Missing true randomness but I dont feel like typing srand() in main and reuploading
+        Done with ~123 lines
