@@ -26,3 +26,7 @@ Digital Logic Simulator - reworked C++ object oriented final project
 Snake - WASD input. Literally just snake, 15x15 grid. Dimensions and speed can be edited in struct Game
         Missing true randomness but I dont feel like typing srand() in main and reuploading
         Done with ~123 lines
+
+Conway's Game of Life - Coordinate input like "20, 20" to place live cells
+                        Includes presets to choose from that have interesting behavior
+                        Done in ~100 lines
